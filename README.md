@@ -122,7 +122,7 @@ For Product 767 (Class: Intimates), the top 5 most similar products are:
 ## Installation & Setup
 Clone this repository:
 ``` bash
-git clone https://github.com/<your-username>/womens-ecommerce-sentiment-analysis.git
+git clone https://github.com/<elifoskanbas>/womens-ecommerce-sentiment-analysis.git
 cd womens-ecommerce-sentiment-analysis
 ``` 
 Install dependencies:
